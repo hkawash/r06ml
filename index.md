@@ -9,7 +9,7 @@
 
 |回 |日付 |トピック|
 |---|---|---|
-|1 |2024/04/08 |機械学習の概要|
+|1 |2024/04/08 |[機械学習の概要](slide/MachineLearning2024_01.pdf) / [副教材1](slide/ml2024intro_01.pdf)|
 |2 |2024/04/15 |確率モデルと機械学習|
 |3 |2024/04/22 |教師あり学習（回帰モデル）|
 |4 |2024/05/13 |教師あり学習（分類モデル）|
@@ -27,7 +27,7 @@
 |16|2024/0?/?? |評価（到達度の確認）|
 
 
-<!-- |1 ||[機械学習の概要](slide/MachineLearning2024_01.pdf) / [副教材1](slide/ml2024intro_01.pdf)|
+<!-- |1 |||
 |2 ||[確率モデルと機械学習](slide/MachineLearning2024_02.pdf) / [副教材2](slide/ml2024intro_02.pdf)|
 |3 ||[教師あり学習（回帰モデル）](slide/MachineLearning2024_03.pdf) / [副教材3](slide/ml2024intro_03.pdf)|
 |4 ||[教師あり学習（分類モデル）](slide/MachineLearning2024_04.pdf) / [副教材4](slide/ml2024intro_04.pdf)|
