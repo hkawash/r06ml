@@ -25,15 +25,5 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    {% if site.google_analytics %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', '{{ site.google_analytics }}');
-    </script>
-    {% endif %}
   </body>
 </html>
