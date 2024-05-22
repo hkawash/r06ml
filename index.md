@@ -14,8 +14,8 @@
 |3 |2024/04/22 |[教師あり学習（回帰モデル）](slide/MachineLearning2024_03.pdf) / [副教材3](slide/ml2024intro_03.pdf)|
 |4 |2024/05/13 |[教師あり学習（分類モデル）](slide/MachineLearning2024_04.pdf) / [副教材4](slide/ml2024intro_04.pdf)|
 |5 |2024/05/20 |[アンサンブル学習](slide/MachineLearning2024_05.pdf) / [副教材5](slide/ml2024intro_05.pdf) / [レポート1解答](slide/MachineLearning2024_report1_answer.pdf) / [宿題解答](slide/MachineLearning2024_04-05_suppl.pdf)|
-|6 |2024/05/27 |演習1|
-|7 |2024/06/03 |ニューラルネットの基礎|
+|6 |2024/05/27 |[演習1](slide/MachineLearning2024_06.pdf)|
+|7 |2024/06/03 |[ニューラルネットの基礎](slide/MachineLearning2024_07.pdf) / [副教材6](slide/ml2024intro_06.pdf)|
 |8 |2024/06/10 |ディープラーニング（深層学習）|
 |9 |2024/06/17 |演習2|
 |10|2024/06/24 |畳み込みニューラルネット|
@@ -28,8 +28,6 @@
 
 
 <!--
-|5 ||[アンサンブル学習](slide/MachineLearning2024_05.pdf) / [副教材5](slide/ml2024intro_05.pdf) / [レポート1解答](slide/MachineLearning2024_report1_answer.pdf) / [宿題解答](slide/MachineLearning2024_04-05_suppl.pdf)|
-|6 ||[演習1](slide/MachineLearning2024_06.pdf)|
 |7 ||[ニューラルネットの基礎](slide/MachineLearning2024_07.pdf) / [副教材6](slide/ml2024intro_06.pdf) /  [宿題1解答](slide/MachineLearning2024_07_hw1.pdf)|
 |8 ||[ディープラーニング（深層学習）](slide/MachineLearning2024_08.pdf)|
 |9 ||[演習2](slide/MachineLearning2024_09.pdf)|
