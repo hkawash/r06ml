@@ -16,10 +16,10 @@
 |5 |2024/05/20 |[アンサンブル学習](slide/MachineLearning2024_05.pdf) / [副教材5](slide/ml2024intro_05.pdf) / [レポート1解答](slide/MachineLearning2024_report1_answer.pdf) / [宿題解答](slide/MachineLearning2024_04-05_suppl.pdf)|
 |6 |2024/05/27 |[演習1](slide/MachineLearning2024_06.pdf)|
 |7 |2024/06/03 |[ニューラルネットの基礎](slide/MachineLearning2024_07.pdf) / [副教材6](slide/ml2024intro_06.pdf)|
-|8 |2024/06/10 |ディープラーニング（深層学習）|
-|9 |2024/06/17 |演習2|
-|10|2024/06/24 |畳み込みニューラルネット|
-|11|2024/07/01 |演習3|
+|8 |2024/06/10 |[ディープラーニング（深層学習）](slide/MachineLearning2024_08.pdf)|
+|9 |2024/06/17 |[演習2](slide/MachineLearning2024_09.pdf)|
+|10|2024/06/24 |[畳み込みニューラルネット](slide/MachineLearning2024_10.pdf)|
+|11|2024/07/01 |[演習3](slide/MachineLearning2024_11.pdf)|
 |12|2024/07/08 |生成モデル|
 |13|2024/07/15 |系列データを扱うモデル|
 |14|2024/07/22 |強化学習|
@@ -29,10 +29,6 @@
 
 <!--
 |7 ||[ニューラルネットの基礎](slide/MachineLearning2024_07.pdf) / [副教材6](slide/ml2024intro_06.pdf) /  [宿題1解答](slide/MachineLearning2024_07_hw1.pdf)|
-|8 ||[ディープラーニング（深層学習）](slide/MachineLearning2024_08.pdf)|
-|9 ||[演習2](slide/MachineLearning2024_09.pdf)|
-|10||[畳み込みニューラルネット](slide/MachineLearning2024_10.pdf)|
-|11||[演習3](slide/MachineLearning2024_11.pdf)|
 |12||[生成モデル](slide/MachineLearning2024_12.pdf)|
 |13||[系列データを扱うモデル](slide/MachineLearning2024_13.pdf)|
 |14||[強化学習](slide/MachineLearning2024_14.pdf)|
