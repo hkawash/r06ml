@@ -23,13 +23,8 @@
 |12|2024/07/08 |[生成モデル](slide/MachineLearning2024_12.pdf)|
 |13|2024/07/15 |[系列データを扱うモデル](slide/MachineLearning2024_13.pdf)|
 |14|2024/07/22 |[強化学習](slide/MachineLearning2024_14.pdf)|
-|15|2024/07/24 |まとめと発展的話題|
+|15|2024/07/24 |[まとめと発展的話題](slide/MachineLearning2024_15.pdf)|
 |16|2024/08/05 |評価（到達度の確認）|
-
-
-<!--
-|15||[まとめと発展的話題](slide/MachineLearning2024_15.pdf)|
--->
 
 
 ## 教科書・参考書
